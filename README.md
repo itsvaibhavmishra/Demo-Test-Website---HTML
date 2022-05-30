@@ -11,7 +11,6 @@ Used
 
 - HTML
 - CSS
-- JS(JavaScript)
 
 For any kind of improvements please:
 
